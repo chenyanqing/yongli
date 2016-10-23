@@ -1,3 +1,3 @@
 # yongli
 用例图
-<img irc="http://pan.baidu.com/s/1pLpkMlP">
+<img src="http://pan.baidu.com/s/1pLpkMlP">
